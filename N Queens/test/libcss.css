@@ -1,0 +1,30 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 27, 2017, 10:06:30 AM
+    Author     : Uchiha Tobi
+*/
+.Label{
+    font-size: 30px;
+}
+.root{
+    -fx-background-color:#00ffcc ;
+}
+.button{
+    -fx-background-color: #ccff33;
+    -fx-font-family: "TOXIA" ;
+    
+}
+
+Text{
+    -fx-font-family: "TOXIA" ;
+}
+TextField{
+      -fx-font-family: "TOXIA" ;
+      -fx-background-color: #66ff33;
+      -fx-text-fill: #660000;
+      -fx-prompt-text-fill: #ff3333
+}
